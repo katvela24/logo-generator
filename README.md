@@ -2,6 +2,9 @@
 
 This logo generator app will help users create a simple logo.
 
+## Walkthrough Link
+
+https://app.screencastify.com/v3/watch/oVv7igodEMcTcNN7ACdJ
 
 ## Screenshots
 
