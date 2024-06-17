@@ -4,7 +4,7 @@ This logo generator app will help users create a simple logo.
 
 ## Walkthrough Link
 
-https://app.screencastify.com/v3/watch/oVv7igodEMcTcNN7ACdJ
+https://app.screencastify.com/v3/watch/vMUTpsBdyDU8fgMuksPW
 
 ## Screenshots
 
@@ -51,7 +51,9 @@ Node.js
 
 
 ## Testing
-N/A
+This application was tested using Jest. To run the command, type:
+
+npm test
 
 
 ## Credits
